@@ -1,3 +1,4 @@
+- De Momento solo se español, pero puedo traducir los contenidos, aunque me lleva tiempo
 - 👋 Hi, I’m @abalrod2122
 - 👀 I’m interested in programación
 - 🌱 I’m currently learning pytho y Django
